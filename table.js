@@ -1,5 +1,5 @@
 var $ = require('jquery')
-12345
+12345 5678
 var tbody =
 	'<table class="table table-striped table-bordered table-hover dataTable" id="alarm-table" >' +
 		'<thead>' +
